@@ -1,0 +1,30 @@
+[
+
+    {
+        "id": "1",
+        "state": "Andaman and Nicobar Islands",
+        "cities": {
+            "id":"1",
+            "cityName": "Port Blair*"
+            }
+        
+            
+    },
+    {
+        "id": "2",
+        "state": "Arunachal Pradesh",
+        "cities": [{
+            "id":"1",
+            "cityName": "Naharlagun"
+            },
+            {
+                "id":"2",
+                "cityName": "Pasighat"
+            }
+        ]
+            
+    }
+
+    
+
+]
